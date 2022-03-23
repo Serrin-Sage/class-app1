@@ -1,0 +1,32 @@
+.title-container {
+    text-align: center;
+}
+
+.title-container:hover {
+    cursor:default;
+}
+
+.content-container {
+    
+}
+
+.drop-down {
+    text-align: center;
+}
+
+.drop-down:hover {
+    cursor: default;
+}
+
+.select-menu {
+
+}
+
+.select-menu:hover {
+    cursor: pointer;
+}
+
+.image-container {
+    display: flex;
+    flex-direction: column;
+}
